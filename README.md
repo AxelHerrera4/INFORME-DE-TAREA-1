@@ -293,6 +293,7 @@ Blanco, Violeta, Azul, Café, Café
 29. ¿Cuál es la resistencia indicada por 4K7?
 Amarillo, violeta, rojo, plateado
 31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
-imagenes/ejer_ec.png
 
+imagenes/ejer_ec.png
+![](https://github.com/AxelHerrera4/INFORME-DE-TAREA-1/imagenes/ejer_ec.png)
   
