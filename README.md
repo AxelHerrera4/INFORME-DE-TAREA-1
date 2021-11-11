@@ -265,5 +265,34 @@ c.- 280 nW=280*〖10〗^(-9)  nW
 		B) café, gris, rojo, plata
 	café = 1, gris = 8, rojo = 2, plata = ±10%
 	Resistencia = 1800 Ω ±10% = 1,8KΩ ±10%
-  
+ 23. Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia:
+330 Ω
+Naranja, naranja, café, dorado
+2,2 kΩ
+Rojo, rojo, naranja, dorado
+56 kΩ
+Verde, azul, naranja, dorado
+100 kΩ
+Café, negro, café, dorado
+39 kΩ
+Naranja, blanco, naranja, dorado
+25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento.
+a) 0,47 Ω
+Amarillo, violeta, Plata, dorado
+b) 270 kΩ
+Rojo, Violeta, Café, dorado
+c) 5,1 MΩ
+Verde, Café, Verde, dorado
+27. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento.
+a) 14,7 kΩ
+Café, Amarillo, Violeta, Rojo, Café 
+b) 39,2 Ω
+Naranja, Blanco, Rojo, Oro, Café 
+c) 9,76 kΩ
+Blanco, Violeta, Azul, Café, Café 
+29. ¿Cuál es la resistencia indicada por 4K7?
+Amarillo, violeta, rojo, plateado
+31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
+imagenes/ejer_ec.png
+
   
