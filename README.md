@@ -47,7 +47,7 @@ a.- 32*〖10〗^3=3.2*10*〖10〗^3=3.2*〖10〗^4
 b.- 6800*〖10〗^(-6)=6.8*1000*〖10〗^(-6)=6.8*〖10〗^3*〖10〗^(-6)=6.8*〖10〗^(-3)
 c.- 870*〖10〗^8=8.7*100*〖10〗^8=8.7*〖10〗^2*〖10〗^8=8.7*〖10〗^10
 
-7.- Exprese cada uno de los números siguientes como un número decimal regular
+7.- Exprese cada uno de los números siguientes como un número decimal regular.
 a.- 2.5*〖10〗^(-6)			b.- 5.0*〖10〗^2		c.- 3.9*〖10〗^(-1)
 Dependiendo del exponente ‘n’ al que se está elevando el número 10, se recorre el punto decimal ‘n’ espacios hacia la derecha (exponente positivo), o ‘n’ espacios hacia la izquierda (exponente negativo).
 a.- 2.5*〖10〗^(-6)=2.5*1/〖10〗^6 =0.0000025
