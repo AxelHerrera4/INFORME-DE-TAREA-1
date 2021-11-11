@@ -372,7 +372,9 @@ https://youtu.be/HYOt6INptYA
 # Cconclusiones
 
 -Logramos realizar varios ejercicios la cual ayuda al desarrollo de nuevos conocimientos para nosotros y ayuda a fortalecer los conocimientos adquiridos de forma teórica
+
 -Se calcularon las cantidades dadas en los ejercicios en diferentes notación, con lo que se se pueden resolver distintos ejercicios aplicados a Circuitos.
+
 -La cantidad de voltaje de una fuente de voltaje no es fijo porlo que no se puede determinar un valor con exactitud.
 
 # Bibliografia
