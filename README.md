@@ -267,6 +267,7 @@ c.- 280 nW=280*〖10〗^(-9)  nW
 	Resistencia = 1800 Ω ±10% = 1,8KΩ ±10%
 
 23.Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia:
+
 330 Ω
 Naranja, naranja, café, dorado
 2,2 kΩ
@@ -279,23 +280,30 @@ Café, negro, café, dorado
 Naranja, blanco, naranja, dorado
 
 25.Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento.
+
 a) 0,47 Ω
 Amarillo, violeta, Plata, dorado
+
 b) 270 kΩ
 Rojo, Violeta, Café, dorado
+
 c) 5,1 MΩ
 Verde, Café, Verde, dorado
 
 
 27.Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento.
+
 a) 14,7 kΩ
 Café, Amarillo, Violeta, Rojo, Café 
+
 b) 39,2 Ω
 Naranja, Blanco, Rojo, Oro, Café 
+
 c) 9,76 kΩ
 Blanco, Violeta, Azul, Café, Café 
 
 29.¿Cuál es la resistencia indicada por 4K7?
+
 Amarillo, violeta, rojo, plateado
 
 31.Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
@@ -306,11 +314,14 @@ La lampara 2 se enciende por lo que la corriente pasa por el interruptor en la p
 
 33.En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito.
 ![](imagenes/ejer33.png)
+
 Es el circuito (b) por lo que es un interruptor doble que funciona y da paso a la corriente en dos direcciones para el encendido de todas las lámparas del circuito.
 
 35.Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:
+
 VS1 conectada a R1 y VS2 conectada a R2
 o VS1 conectada a R2 y VS2 conectada a R1
+
 ![](imagenes/circuito_35.png)
 
 37.Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de fuente en la figura 2-72.
@@ -318,6 +329,7 @@ o VS1 conectada a R2 y VS2 conectada a R1
 ![](imagenes/ejer_37.png)
 
 39.En la figura 2-73 ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1? ¿En la posición 2?
+
 En la posición 1 y en la posición va ser la misma de la fuente si es que está estaría conectada en el polo positivo, y como ese no es el caso, el circuito no se enciende por el motivo que está conectado de forma errónea.
 
 41.En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería.
@@ -325,22 +337,29 @@ En la posición 1 y en la posición va ser la misma de la fuente si es que está
 ![](imagenes/ejer_41.png)
 
 43. Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
+
 12,5 voltios por el hecho de que está en corriente directa.
 
 45.Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de ohmmetro:
+
 (a) manecilla en 2, ajuste de intervalo en x10
 20 ohmios
+
 (b) manecilla en 15, ajuste de intervalo en x100,000
 1500000 ohmios o 1500k ohmios
+
 (c) manecilla en 45, ajuste de intervalo en x100
 4500 ohmios
 
 
 47.Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos. 
+
 (a) I1                                                                    
 En serie a las dos ultimas resistencias un polo al final de las resistencias y a l punto tierra. La perilla debe estar seleccionando a 1.2 para la toma de intensidad en el intervalo de uno a dos. Cabe recalcar que los dos cables conectados al multímetro deben estar en el agujero de mA y común.
+
 (b) V1 
 Para el voltaje debe esta en AC y 1 en el intervalo de 12
+
 (c) R1
 Lo sacamos del circuito eléctrico y se lo mide, en la perilla en 45 en el intervalo de x1000
 
