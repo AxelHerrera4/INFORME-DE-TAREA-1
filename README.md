@@ -126,41 +126,41 @@ b.- 3.3 GHz=3.3*〖10〗^9  Hz
 c.- 280 nW=280*〖10〗^(-9)  nW
 27. Realice las conversiones indicadas:
 
-		A) 5 mA a microamperios.
+	A) 5 mA a microamperios.
 	1mA=1*10^3µA
 	microamperios=(5mA* 1*10^3µA)/1mA
 	microamperios=5*10^3µA
 
-		B) 3200 µW a mili watt.
+	B) 3200 µW a mili watt.
 	1 µW=1*10^(-3) mW
 	mili watt=(3200 µW* 1*10^(-3) mW)/(1µW)
 	mili watt=3,2 mW
 
-		C) 5000 kV a mega volt
+	C) 5000 kV a mega volt
 	1 KV=1*10^(-3) MV
 	mega volt=(5000 kV* 1*10^(-3) MV)/(1 KV)
 	mega volt=5MV
 
-		D) 10 MW a kilowatts
+	D) 10 MW a kilowatts
 	1 MW=1*10^3 KV
 	kilowatts=(10 MW* 1*10^(-3) KW)/(1 MW)
 	kilowatts=1000000MV
 
 29) Sume las siguientes cantidades:
 
-		A) 50 mA + 680 µA
+	A) 50 mA + 680 µA
 	1 µA=1*10^(-3) mA
 	miliamperio=(680 µA* 1*10^(-3) mA)/(1µA)
 	miliamperio=0,68mA
 	Suma=50mA+0,68mA=50,68mA
 
-		B) 120KΩ+2,2MΩ
+	B) 120KΩ+2,2MΩ
 	1 KV=1*10^(-3) MV
 	MΩ=(120KΩ* 1*10^(-3) MΩ)/1KΩ
 	MΩ=0,12MΩ
 	Suma=2,2MΩ+0,12MΩ=2,32MΩ
 
-		C) 0,02µF+3300pF
+	C) 0,02µF+3300pF
 	1 pF=1*10^(-6)µF
 	µF=(3300pF* 1*10^(-6)µF)/(1 pF)
 	µF=0,0033µF
