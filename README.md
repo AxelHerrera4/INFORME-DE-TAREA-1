@@ -319,6 +319,7 @@ En la posición 1 y en la posición va ser la misma de la fuente si es que está
 
 43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
 12,5 voltios por el hecho de que está en corriente directa.
+
 45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de ohmmetro:
 (a) manecilla en 2, ajuste de intervalo en x10
 20 ohmios
@@ -326,7 +327,9 @@ En la posición 1 y en la posición va ser la misma de la fuente si es que está
 1500000 ohmios o 1500k ohmios
 (c) manecilla en 45, ajuste de intervalo en x100
 4500 ohmios
-47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos. 
+
+
+47.Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos. 
 (a) I1                                                                    
 En serie a las dos ultimas resistencias un polo al final de las resistencias y a l punto tierra. La perilla debe estar seleccionando a 1.2 para la toma de intensidad en el intervalo de uno a dos. Cabe recalcar que los dos cables conectados al multímetro deben estar en el agujero de mA y común.
 (b) V1 
