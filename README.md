@@ -294,5 +294,5 @@ Blanco, Violeta, Azul, Café, Café
 Amarillo, violeta, rojo, plateado
 31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
 
-![]https://github.com/AxelHerrera4/INFORME-DE-TAREA-1/blob/imagenes/ejer_ec.png)
+![](https://github.com/AxelHerrera4/INFORME-DE-TAREA-1/blob/imagenes/ejer_ec.png)
   
