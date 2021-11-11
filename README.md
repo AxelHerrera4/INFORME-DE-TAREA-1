@@ -344,5 +344,17 @@ Para el voltaje debe esta en AC y 1 en el intervalo de 12
 (c) R1
 Lo sacamos del circuito eléctrico y se lo mide, en la perilla en 45 en el intervalo de x1000
 
+# VIDEO
+
+
+# Cconclusiones
+
+-Logramos realizar varios ejercicios la cual ayuda al desarrollo de nuevos conocimientos para nosotros y ayuda a fortalecer los conocimientos adquiridos de forma teórica
+-Se calcularon las cantidades dadas en los ejercicios en diferentes notación, con lo que se se pueden resolver distintos ejercicios aplicados a Circuitos.
+-La cantidad de voltaje de una fuente de voltaje no es fijo porlo que no se puede determinar un valor con exactitud.
+
+# Bibliografia
+Floyd, T. (2007). Voltaje, corriente y resistencia. En L. M. Cruz Castillo (Ed.), Principios de Circuitos Eléctricos (VIII ed., pp. 16-71). Pearson Educación.
+Floyd, T. (2007). Cantidades y unidades. En L. M. Cruz Castillo (Ed.), Principios de Circuitos Eléctricos (VIII ed., pp. 1-15). Pearson Educación
 
 
