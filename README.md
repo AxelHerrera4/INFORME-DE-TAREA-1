@@ -375,7 +375,7 @@ https://youtu.be/HYOt6INptYA
 
 -Se calcularon las cantidades dadas en los ejercicios en diferentes notación, con lo que se se pueden resolver distintos ejercicios aplicados a Circuitos.
 
--La cantidad de voltaje de una fuente de voltaje no es fijo porlo que no se puede determinar un valor con exactitud.
+-La cantidad de voltaje de una fuente de voltaje no es fijo por lo que no se puede determinar un valor con exactitud, varia almenos por decimas la exactitud de una fuente verdadera.
 
 # Bibliografia
 Floyd, T. (2007). Voltaje, corriente y resistencia. En L. M. Cruz Castillo (Ed.), Principios de Circuitos Eléctricos (VIII ed., pp. 16-71). Pearson Educación.
