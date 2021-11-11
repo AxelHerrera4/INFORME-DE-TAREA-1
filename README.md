@@ -22,6 +22,9 @@ La resistencia se da gracias a los elementos que se denominan resistores o resis
 
 Los circuitos básicos, se componen por una fuente, una carga y una trayectoria de corriente, o también se lo denomina actuadores. Los actuadores son los que ocupan la energía liberada para realizar un trabajo, por lo cual se llama transformación de energía. El estudio de estos circuitos básicos, bien consigo también la dirección de su corriente, la dirección de flujo de electrones y la dirección convencional de la corriente.
 
+![](Mapa Conceptual FCE_page-0001.jpg)
+
+
 # Resolución de ejercicios
 Notación científica
 1.- Exprese cada uno de los números siguientes en notación científica
