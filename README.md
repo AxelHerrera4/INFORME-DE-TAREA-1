@@ -24,7 +24,6 @@ Los circuitos básicos, se componen por una fuente, una carga y una trayectoria 
 
 ![](Mapa Conceptual FCE_page-0001.jpg)
 
-
 # Resolución de ejercicios
 Notación científica
 1.- Exprese cada uno de los números siguientes en notación científica
