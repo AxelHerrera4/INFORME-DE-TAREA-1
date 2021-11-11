@@ -366,6 +366,7 @@ Para el voltaje debe esta en AC y 1 en el intervalo de 12
 Lo sacamos del circuito eléctrico y se lo mide, en la perilla en 45 en el intervalo de x1000
 
 # VIDEO
+https://youtu.be/HYOt6INptYA
 
 
 # Cconclusiones
