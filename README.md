@@ -295,5 +295,5 @@ Amarillo, violeta, rojo, plateado
 31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
 
 imagenes/ejer_ec.png
-![](https://github.com/AxelHerrera4/INFORME-DE-TAREA-1/imagenes/ejer_ec.png)
+![]https://github.com/AxelHerrera4/INFORME-DE-TAREA-1/blob/1f129df094f88d14d53bfc41a25936dd65e20bdc/imagenes/ejer_ec.png)
   
